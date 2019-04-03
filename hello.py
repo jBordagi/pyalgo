@@ -11,10 +11,14 @@
 resultat = 0 #Définition de la variable
 
 operande1 = -3
-operande2 = 2
+operande2 = 5
 resultat = operande1 + operande2
 print(resultat)
 
+if resultat > 0:
+    print ("le résultat est positif")
+else:
+    print ("le résultat est négatif")
 """
 Fin de l'algorithme
 """

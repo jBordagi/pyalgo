@@ -121,3 +121,4 @@ def facto(anArray):
 
 print ("La factorielle du tableau est:",facto(monTablo))
 
+#ordered
